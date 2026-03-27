@@ -2,9 +2,9 @@
 let filmes = [
 
     {
-    titulo: "Interestellar",
-    imagem: "Imagens/Interstellar_Filme.png",
-    descricao: "Um grupo de astronautas viaja através de um buraco de minhoca em busca de um novo lar para a humanidade."
+    titulo: "Meninas não choram",
+    imagem: "Imagens/MeninasNãoChoram.png",
+    descricao: "acompanha Pipa, uma adolescente de 16 anos apaixonada por futebol e craque do time escolar. Sua vida muda drasticamente ao ser diagnosticada com leucemia, enfrentando internações e o tratamento."
     }
     
     ];
@@ -14,7 +14,7 @@ let filmes = [
     
     {
     titulo: "Stranger Things",
-    imagem: "Imagens/StrangerThings_Filme.jpg",
+    imagem: "Imagens/StrangerThings.png",
     descricao: "Um grupo de crianças enfrenta forças sobrenaturais e experimentos secretos em uma pequena cidade."
     }
 

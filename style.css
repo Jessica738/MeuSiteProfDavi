@@ -1,7 +1,7 @@
 body{
     font-family: Arial;
     background: linear-gradient(to right,#000000,#141414);
-    color:white;
+    color:rgb(255, 0, 0);
     text-align:center;
 }
 
@@ -49,5 +49,5 @@ h1{
 
 .card p{
     font-size:14px;
-    color:#ccc;
+    color:#ffffff;
 }
