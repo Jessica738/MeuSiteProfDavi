@@ -1,35 +1,53 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Meu Streaming</title>
 <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
-<div class="perfil">
+<!-- MENU SUPERIOR -->
+<header class="navbar">
+    <div class="logo">NETFLIX PREMIUM</div>
 
-<img src=Imagens/murango.jpg class="fotoPerfil">
-
-<h1>Netflix Jessi</h1>
-
-</div>
-
-<div class="container">
-
-    <div class="lista">
-        <h2>Filmes</h2>
-        <div id="listaFilmes"></div>
+    <div class="perfil">
+        <img src="imagens/murango.jpg" class="fotoPerfil">
     </div>
+</header>
 
-    <div class="lista">
-        <h2>Séries</h2>
-        <div id="listaSeries"></div>
+
+<!-- BANNER PRINCIPAL -->
+<section class="banner">
+    <div class="banner-conteudo">
+        <h1>Bem-vindo ao Meu Streaming</h1>
+        <p>Os melhores filmes e séries em um só lugar.</p>
+
+        <button class="btnAssistir">
+            ▶ Assistir Agora
+        </button>
     </div>
+</section>
 
-</div>
 
-<script src="script.js"></script>
+<!-- CONTEÚDO -->
+<main class="container">
+
+    <section class="lista">
+        <h2>🎬 Filmes</h2>
+        <div id="listaFilmes" class="carrossel"></div>
+    </section>
+
+    <section class="lista">
+        <h2>📺 Séries</h2>
+        <div id="listaSeries" class="carrossel"></div>
+    </section>
+
+</main>
+
+<script type="module" src="script.js"></script>
+<script src="filmes.js"></script>
 </body>
 </html>
