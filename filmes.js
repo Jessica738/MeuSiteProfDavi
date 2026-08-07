@@ -10,6 +10,11 @@ export const filmes = [
         titulo: "Batman",
         imagem: "Imagens/batima.jpg",
         descricao: "O herói de Gotham enfrenta novos desafios."
+    },
+    {
+        titulo: "Como magica",
+        imagem: "Imagens/images.jpg",
+        descricao: "O longa acompanha Ollie, uma pequena criatura da floresta, e Ivy, um pássaro majestoso, que são inimigos naturais no reino animal chamado Vale"
     }
 ];
 
@@ -23,5 +28,11 @@ export const series = [
         titulo: "Dark",
         imagem: "Imagens/dark.jpg",
         descricao: "Mistérios envolvendo viagens no tempo."
+    },
+    {
+        titulo: "Icarly",
+        imagem: "Imagens/icarly.jpg",
+        descricao: "iCarly é uma série de comédia americana criada por Dan Schneider para a Nickelodeon, exibida originalmente de 2007 a 2012. A trama acompanha Carly Shay (Miranda Cosgrove), seu irmão Spencer e seus amigos Sam e Freddie, que criam um programa de sucesso na internet."
     }
 ];
+
