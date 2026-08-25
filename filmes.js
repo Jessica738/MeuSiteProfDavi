@@ -10,6 +10,7 @@ export const filmes = [
     },
 
     {
+        id: "Lego Batman",
         titulo: "Lego Batman",
         imagem: "Imagens/batima.jpg",
         descricao: "Em Batman: O Cavaleiro das Trevas, a paz é ameaçada pelo Coringa, um anarquista que instaura o caos.",
@@ -17,6 +18,7 @@ export const filmes = [
     },
 
     {
+        id: "Ong Bak",
         titulo: "Ong Bak",
         imagem: "Imagens/ong bak.jpg",
         descricao: "Ong-Bak: Guerreiro Sagrado, acompanha Ting (Tony Jaa), um jovem guerreiro de uma pacata vila tailandesa.",
@@ -24,6 +26,7 @@ export const filmes = [
     },
 
     {
+        id: "Kung-Fusão",
         titulo: "Kung-Fusão",
         imagem: "Imagens/Kung-Fusão.jpg",
         descricao: "A história acompanha Sing, um malandro trapalhão que tenta entrar para a temida Gangue do Machado.",
@@ -31,55 +34,63 @@ export const filmes = [
     },
 
     {
+        id: "Homem Aranha",
         titulo: "Homem Aranha",
         imagem: "Imagens/Homem Aranha.jpg",
         descricao: "O jovem Peter Parker que, após ser picado por uma aranha, ganha superpoderes como força, agilidade e a capacidade de escalar paredes.",
-        trailer: ""
+        trailer: "PlulyWs1kS4?si=l3W3HT2aRGunhWy_"
     },
 
     {
+        id: "Capitão América: Guerra Civil",
         titulo: "Capitão América: Guerra Civil",
         imagem: "Imagens/Capitão América.jpg",
         descricao: "Após danos colaterais em missões dos Vingadores, a ONU propõe o Tratado de Sokovia, um acordo para regulamentar e controlar a equipe.",
-        trailer: ""
+        trailer: "FRLYZn5PGuA?si=KX1nbXIosmYT5iIX"
     }
 ];
 
 export const series = [
     {
+        id: "Stranger Things",
         titulo: "Stranger Things",
         imagem: "Imagens/StrangerThings.png",
         descricao: "Um grupo de crianças enfrenta forças sobrenaturais.",
-        trailer: "ID_YOUTUBE"
+        trailer: "RMmGQNNl164?si=BlGNLayRu-JaRrxs"
     },
     {
+        id: "Dark",
         titulo: "Dark",
         imagem: "Imagens/dark.jpg",
         descricao: "Dark é uma série focada em viagens no tempo e multiversos.",
-        trailer: "ID_YOUTUBE"
+        trailer: "JCCssUOtn2E?si=xFIqL-NQyTD7bVwq"
     },
     {
+        id: "Breaking Bad",
         titulo: "Breaking Bad",
         imagem: "Imagens/Breaking Bad.jpg",
         descricao: " A série acompanha Walter White e a sua transformação de um homem comum no chefão do tráfico.",
-        trailer: "ID_YOUTUBE"
+        trailer: "2gTC4uWP3_Y?si=F9JgES6_c4SQtkgv"
     },
     {
+        id: "Peaky Blinders",
         titulo: "Peaky Blinders",
         imagem: "Imagens/Peaky Blinders.jpg",
         descricao: "Peaky Blinders acompanha Thomas Shelby e sua gangue em Birmingham após a Primeira Guerra Mundial.",
-        trailer: "ID_YOUTUBE"
+        trailer: "NfQ-dwkuMx8?si=vmruPEgthKUgGLTw"
     },
     {
+        id: "Round 6",
         titulo: "Round 6",
         imagem: "Imagens/Round 6.jpg",
         descricao: "Centenas de jogadores falidos aceitam um estranho convite para um jogo de sobrevivência. Onde um prêmio milionário aguarda.",
-        trailer: "ID_YOUTUBE"
+        trailer: "CmRR-0XAttY?si=eol0Hqpm1Y2USAmD"
     },
     {
+        id: "Avatar A lenda de Aang",
         titulo: "Avatar A lenda de Aang",
         imagem: "Imagens/Avatar A lenda de Aang.jpg",
         descricao: "Avatar: A Lenda de Aang acompanha Aang, um menino de 12 anos que acorda após cem anos congelado em um iceberg.",
-        trailer: "ID_YOUTUBE"
+        trailer: "ooVvH2IYz0w?si=xve8SS2PMZh_mfDp"
     }
 ];
